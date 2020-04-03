@@ -1,4 +1,4 @@
-# iTrellis README
+# README
 
 To launch: 
 - open the solution 
@@ -7,7 +7,3 @@ To launch:
 
 Domain: Poker Hands
 Interface: WEB UI (Server Generated)
-
-Thanks for the consideration,
-
-Zach
